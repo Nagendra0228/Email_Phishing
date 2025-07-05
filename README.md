@@ -203,10 +203,8 @@ SOFTWARE.
 
 ## 📞 Contact
 
-**Project Maintainer**: [Your Name]
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+**Project Maintainer**: Nagendra Pai
+- 📧 Email: painagendrao228@gmail.com
 
 ## 🙏 Acknowledgments
 
